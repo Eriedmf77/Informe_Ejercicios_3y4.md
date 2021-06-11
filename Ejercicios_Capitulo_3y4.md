@@ -34,20 +34,44 @@ _d. 0.5 cm_
 
 ![image](https://user-images.githubusercontent.com/84418933/121631834-776b3180-ca45-11eb-965f-37081764ea74.png)
 
+_5. Un alambre de cobre con un diámetro de 0.80 mm tiene una resistencia de 10.3 Ω a 20 °C. ¿Cuánto mide el alambre en metros y en pies?_
+
+![image](https://user-images.githubusercontent.com/85259801/121640006-ff0b6d00-ca52-11eb-8778-7db757ae8eb4.png)
+![image](https://user-images.githubusercontent.com/85259801/121640047-0d598900-ca53-11eb-8fa2-a399597df80f.png)
+
+
 _7. Determine la resistividad (en ohm-metros) de un cilindro de grafito con base de carbón que tiene una longitud de 6.00 cm, un diámetro de 0.50 mm y una resistencia medida de 3.0 N a 20°C. ¿Cómo se compara este valor con la resistividad que se reporta para el carbón?_
+
 ![image](https://user-images.githubusercontent.com/84418933/121632028-d630ab00-ca45-11eb-8d4f-fd203de51193.png)
+
+_11. Utilice la tabla 3-2 para determinar la resistencia de 300 ft de conductores de cobre sólido AWG 22 y AWG 19, compare diámetro y resistencia de los alambres._
+
+![image](https://user-images.githubusercontent.com/85259801/121640117-23ffe000-ca53-11eb-9138-06092cda97cd.png)
+![image](https://user-images.githubusercontent.com/85259801/121640127-26623a00-ca53-11eb-857d-a82502c28c26.png)
+![image](https://user-images.githubusercontent.com/85259801/121640150-2d894800-ca53-11eb-9a42-6fb29cda7676.png)
 
 _13. Determine la máxima corriente que puede conducir un alambre AWG 19 y uno AWG 30._
 ![image](https://user-images.githubusercontent.com/84418933/121632117-06784980-ca46-11eb-8c50-e3ea3fc5fa0a.png)
+
+_17. Determine el área en milésimas circulares de los siguientes conductores (T=20°C)_
+![image](https://user-images.githubusercontent.com/85259801/121640245-4bef4380-ca53-11eb-8e96-650198370e00.png)
+![image](https://user-images.githubusercontent.com/85259801/121640295-59a4c900-ca53-11eb-812c-48a94ed6fcfc.png)
 
 _19. Calcule la resistencia, a 20°C, de 400 pies de conductores de cobre que tiene las mismas áreas de sección transversal que las del problema 17._
 
 ![image](https://user-images.githubusercontent.com/84418933/121632185-29a2f900-ca46-11eb-8142-d6059abe4f14.png)
 ![image](https://user-images.githubusercontent.com/84418933/121632227-39bad880-ca46-11eb-99a5-12a6da7f2ace.png)
 
+_23. Un carrete de alambre de cobre sólido con un diámetro de 0.040 plg tiene una resistencia de 12.5 Ω a una temperatura de 20°C._
+![image](https://user-images.githubusercontent.com/85259801/121640380-76410100-ca53-11eb-8cdd-d3b986c7ef37.png)
+
 _25. Un conductor de aluminio tiene una resistencia de 50 a temperatura ambiente. Encuentre la resistencia para el mismo conductor a -30°C, 0°C y a 200°C._
 
 ![image](https://user-images.githubusercontent.com/84418933/121632360-7981c000-ca46-11eb-88cb-9d00c4e38a2c.png)
+
+_29.Un calentador eléctrico está hecho de alambre de nicromo. EL alambre tiene una resistencia de 15.2 ohm a una temperatura de 20°C. Determine la resistencia de alambre de nicromo cuando su temperatura aumente a 260°C_
+
+![image](https://user-images.githubusercontent.com/85259801/121640449-8e188500-ca53-11eb-9156-4b312a288696.png)
 
 _31. Un dispositivo eléctrico tiene una respuesta lineal de temperatura. El dispositivo tiene una resistencia de 120 N a una temperatura de -20°C y de 1901 a 120°C._ 
 
@@ -59,9 +83,18 @@ _c. Determine la intercepción de temperatura del material._
 
 ![image](https://user-images.githubusercontent.com/84418933/121632562-d1b8c200-ca46-11eb-86e3-1f473e93a5bf.png)
 
+_35. Dados los resistores con los siguientes códigos de colores, determine la resistencia la tolerancia y la confiabilidad de cada componente. Exprese la incertidumbre_
+
+![image](https://user-images.githubusercontent.com/85259801/121640516-a4bedc00-ca53-11eb-894f-28b7f1a1e747.png)
+
 _37. Explique cómo se puede usar un óhmetro para determinar si un foco se fundió._
 
 ![image](https://user-images.githubusercontent.com/84418933/121632671-ff057000-ca46-11eb-92fb-3b7283a8f147.png)
+
+_41. Un termistor tiene las características que se muestran en la figura 3-23._
+
+![image](https://user-images.githubusercontent.com/85259801/121640562-b6a07f00-ca53-11eb-9fb8-dd881fd2ac3a.png)
+![image](https://user-images.githubusercontent.com/85259801/121640606-bef8ba00-ca53-11eb-8318-b3bea1ee8db3.png)
 
 _43. Calcula la conductancia de las siguientes resistencias:_
 
@@ -94,9 +127,18 @@ _f. V = 12 kV, R = 2 M_
 
 ![image](https://user-images.githubusercontent.com/84418933/121633101-d0d46000-ca47-11eb-91aa-07bbb9eae7fa.png)
 
+_5. Cuando se conecta una lámpara eléctrica a un contacto de pared de 120 V, requiere 1.25 A. ¿Cuál es su resistencia?_
+
+![image](https://user-images.githubusercontent.com/85259801/121641061-52ca8600-ca54-11eb-9cd2-cfb3d997ed53.png)
+
+
 _7. ¿Cuánto voltaje se puede aplicar a un resistor de 560 12, si la corriente no debe exceder de 50 mA?_
 
 ![image](https://user-images.githubusercontent.com/84418933/121633239-08dba300-ca48-11eb-9dbf-70f732c1724a.png)
+
+_11. La corriente a través de un resistor es de 15 mA, si la caída de voltaje en el resistor es de 33 V, ¿Cuál es su código de colores?_
+
+![image](https://user-images.githubusercontent.com/85259801/121641159-7261ae80-ca54-11eb-9a83-eadbec08b483.png)
 
 _13. En el circuito de la figura 4-34, si el resistor es reemplazado por otro con bandas roja, roja y negra, ¿a qué voltaje cree que se funda el fusible?_
 
