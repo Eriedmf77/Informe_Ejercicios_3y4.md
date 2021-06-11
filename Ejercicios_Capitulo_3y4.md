@@ -17,4 +17,5 @@ _obejtivos_
 **Capítulo 3** 
 
 **Resistencia**
+![image](https://user-images.githubusercontent.com/85259801/121631365-987f5280-ca44-11eb-8678-6e14afa4e76f.png)
 
